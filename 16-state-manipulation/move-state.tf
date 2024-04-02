@@ -1,7 +1,3 @@
-/*
-1. terraform state mv ARGS...
-*/
-
 locals {
   ec2_names = ["instance1", "instance2"]
 }

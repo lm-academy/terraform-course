@@ -14,8 +14,8 @@ module "vpc" {
     subnet_2 = {
       cidr_block = "10.0.1.0/24"
       # Public subnets are indicated by setting the "public" option to true.
-      public     = true
-      az         = "eu-west-1b"
+      public = true
+      az     = "eu-west-1b"
     }
   }
 }

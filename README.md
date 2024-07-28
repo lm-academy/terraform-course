@@ -19,8 +19,8 @@ Happy learning! 🚀
 ## Additional Links and Courses:
 
 **Other repositories included in the course:**
-* Networking Module Repository - https://github.com/udemy-lauromueller/terraform-aws-networking-tf-course
-* Terraform Cloud VCS Integration Repository - https://github.com/udemy-lauromueller/terraform-course-example-terraform-cloud
+* Networking Module Repository - https://github.com/lm-academy/terraform-aws-networking-tf-course
+* Terraform Cloud VCS Integration Repository - https://github.com/lm-academy/terraform-course-example-terraform-cloud
 
 **Other courses I published in Udemy:**
 * Mastering GitHub Actions: From Beginner to Expert - https://www.lauromueller.com/courses/mastering-github-actions

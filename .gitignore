@@ -2,3 +2,5 @@
 .terraform/
 **.tfstate*
 .prettierrc
+
+.DS_Store

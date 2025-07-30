@@ -13,6 +13,10 @@ If you wish to give it a shot before looking into the detailed step-by-step and 
 3. Terraform successfully initialized with the S3 backend.
 4. Terraform configuration successfully applied and state stored in the S3 bucket.
 
+### Useful resources
+
+* Terraform backend documentation: [https://developer.hashicorp.com/terraform/language/backend](https://developer.hashicorp.com/terraform/language/backend)
+
 ## Step-by-Step Guide
 
 1. First, make sure you have Terraform version 1.7 or later installed. You can check this by running `terraform version` in your terminal.

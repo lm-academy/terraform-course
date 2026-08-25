@@ -49,7 +49,7 @@ If you wish to give it a shot before looking into the detailed step-by-step and 
     }
     ```
 
-4. After following these steps, your variable `ec2_instance_config_list` with the necessary validation should look like this:
+4. After following these steps, your variable `ec2_instance_config_map` with the necessary validation should look like this:
 
     ```
     variable "ec2_instance_config_map" {
